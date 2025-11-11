@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kalpana Chinthareddy
 
-🎓 Graduate Student | 💻 Software Engineer Apprentice | 🚀 Full-Stack & Automation Enthusiast  
+🎓 Graduate Student | 💻 Software Engineer | 🚀 Full-Stack & Automation Enthusiast  
 📍 St. Louis, Missouri, USA  
 
 I’m passionate about building scalable web applications, automating workflows, and exploring AI-driven solutions.  
