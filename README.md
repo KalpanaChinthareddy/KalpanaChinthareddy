@@ -67,6 +67,8 @@ The project involved developing scalable microservices and implementing real-tim
 - 🌐 **HTML/CSS Certification** – Coursera  
 - 🧩 **JPMorgan Chase & Co. Software Engineering Job Simulation** – Forage  
 
+---
+
 ### 🏆 Highlights
 - 🥇 1st Place – CSHACK2022 Hackathon  
 - 💡 Teaching Assistant – Database Systems, Saint Louis University  
