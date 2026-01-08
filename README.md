@@ -79,7 +79,6 @@ The project involved developing scalable microservices and implementing real-tim
 
 ### 🌐 Connect with Me
 📫 **Email:** [kalpanareddy331@gmail.com](mailto:kalpanareddy331@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/kalpana-chinthareddy](https://www.linkedin.com/in/kalpana-chinthareddy/)  
 🧑‍💻 **Portfolio:** [kalpanachinthareddy.github.io/Portfolio](https://kalpanachinthareddy.github.io/Portfolio/)  
 🐙 **GitHub:** [github.com/KalpanaChinthareddy](https://github.com/KalpanaChinthareddy)
 
